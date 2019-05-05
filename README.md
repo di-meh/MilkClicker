@@ -5,3 +5,9 @@ Il s'agit d'un site web permettant de jouer à un clicker game. Ce site web a é
 Template du site basée sur [Start Bootstrap - Business Casual](https://startbootstrap.com/template-overviews/business-casual/)
 
 
+# Membres du projet
+
+Arthur Vadrot
+Justine Juarez
+Steven Quiot
+Mehdi Saber
